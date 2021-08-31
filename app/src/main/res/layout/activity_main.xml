@@ -8,7 +8,7 @@
 
     <SeekBar
         android:layout_width="300dp"
-        android:layout_height="30dp"
+        android:layout_height="60dp"
         android:rotation="270"
         android:thumb="@null"
         android:duplicateParentState="true"
