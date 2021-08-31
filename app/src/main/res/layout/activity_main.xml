@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/teal_200"
     tools:context=".MainActivity">
 
     <SeekBar
@@ -12,7 +13,7 @@
         android:rotation="270"
         android:thumb="@null"
         android:duplicateParentState="true"
-        style="@style/Widget.AppCompat.ProgressBar.Vertical"
+        style="@style/Widget.AppCompat.ProgressBar.VerticalVolume"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
